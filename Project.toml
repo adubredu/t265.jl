@@ -1,7 +1,11 @@
-name = "T265"
+name = "t265"
 uuid = "c6be5550-1a7c-4e49-8d85-4d009a80f5e3"
 authors = ["Alphonsus Adu-Bredu"]
 version = "0.1.0"
+
+[deps]
+CxxWrap = "1f15a43c-97ca-5a2a-ae31-89f07a497df4"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 
 [compat]
 julia = "1"
