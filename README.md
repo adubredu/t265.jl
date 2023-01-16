@@ -1,6 +1,10 @@
 # t265.jl
 Julia package for interfacing with the [Intel Realsense T265 Tracking camera](https://www.intelrealsense.com/tracking-camera-t265/)
 
+## Features
+* 34kHz data transmission rate. 
+* Allows for the transmission of camera position, orientation(in quaternions), linear velocity, angular velocity, linear acceleration and angular acceleration data.
+
 ## Installation
 1. Open your Julia REPL by typing  `julia` in your terminal.
 2. Press `]` on your keyboard to enter the package manager
