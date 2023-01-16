@@ -1,5 +1,5 @@
 # t265.jl
-Julia package for interfacing with the Intel Realsense T265 Tracking camera
+Julia package for interfacing with the [Intel Realsense T265 Tracking camera](https://www.intelrealsense.com/tracking-camera-t265/)
 
 ## Installation
 1. Open your Julia REPL by typing  `julia` in your terminal.
